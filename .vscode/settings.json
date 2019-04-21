@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "stdint.h": "c",
+        "stdbool.h": "c",
+        "iostream": "cpp",
+        "cmath": "c",
+        "math.h": "c"
+    }
+}
